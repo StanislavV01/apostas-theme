@@ -13,11 +13,11 @@
 
 <footer class="footer">
     <div class="footer__content">
-        <div class="footer__block img-b"><img src="<?php bloginfo('template_directory'); ?>./img/apostar.png"
+        <div class="footer__block img-b"><img src="<?php bloginfo('template_directory'); ?>/img/apostar.png"
                 alt="Apostar">
-            <img src="<?php bloginfo('template_directory'); ?>./img/gamble.svg" alt="gamecare">
-            <img src="<?php bloginfo('template_directory'); ?>./img/gamecare.png" alt="gamecare"> <img
-                src="<?php bloginfo('template_directory'); ?>./img/gov.svg" alt="gov.svg">
+            <img src="<?php bloginfo('template_directory'); ?>/img/gamble.svg" alt="gamecare">
+            <img src="<?php bloginfo('template_directory'); ?>/img/gamecare.png" alt="gamecare"> <img
+                src="<?php bloginfo('template_directory'); ?>/img/gov.svg" alt="gov.svg">
         </div>
         <div class="container">
             <div class="footer__block footer--bottom">
