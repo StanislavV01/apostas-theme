@@ -19,8 +19,9 @@
             <img src="<?php bloginfo('template_directory'); ?>/img/gamecare.png" alt="gamecare"> <img
                 src="<?php bloginfo('template_directory'); ?>/img/gov.svg" alt="gov.svg">
         </div>
-        <div class="container">
-            <div class="footer__block footer--bottom">
+
+        <div class="footer__block footer--bottom">
+            <div class="container">
                 <div class="footer__text">
                     <p><?php   echo get_theme_mod('footer_text-1') ?></p>
                     <p><?php   echo get_theme_mod('footer_text-2') ?></p>
